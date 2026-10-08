@@ -1,0 +1,6 @@
+target
+.git
+.idea
+frontend-banco
+node_modules
+src/main/resources/oracleJdk-26
